@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91933e64-23d2-4282-a46a-e2bc699fe2ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_2023-09-18---OOP1.iml" afterDir="false" />
+    <list default="true" id="91933e64-23d2-4282-a46a-e2bc699fe2ca" name="Changes" comment="all exercises">
+      <change afterPath="$PROJECT_DIR$/src/demo/Cup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/TestCup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +43,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HeadQuarter">
+  <component name="RunManager" selected="Application.TestCup">
     <configuration name="HeadQuarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="disappearingspy.HeadQuarter" />
       <module name="_2023-09-18---OOP1" />
@@ -100,10 +96,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestCup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.TestCup" />
+      <module name="_2023-09-18---OOP1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HeadQuarter" />
+        <item itemvalue="Application.TestCup" />
         <item itemvalue="Application.Run" />
+        <item itemvalue="Application.HeadQuarter" />
         <item itemvalue="Application.MyKids" />
         <item itemvalue="Application.PrintAge" />
       </list>
@@ -117,11 +127,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694766474438</updated>
-      <workItem from="1694766475452" duration="9677000" />
+      <workItem from="1694766475452" duration="11030000" />
     </task>
+    <task id="LOCAL-00001" summary="all exercises">
+      <created>1695020497064</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695020497064</updated>
+    </task>
+    <task id="LOCAL-00002" summary="all exercises">
+      <created>1695020526598</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695020526598</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="all exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="all exercises" />
   </component>
 </project>
